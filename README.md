@@ -10,6 +10,10 @@ Project story
 - Results: the repo currently preserves the pipeline, sample outputs, and checkpoints, but the final presentation should summarize the metrics and best examples.
 - Limitations: this is a resource-heavy pipeline and full training/inference is not practical on CPU alone; large video/data downloads are required for the full workflow.
 
+Presentation video
+- YouTube link: https://youtu.be/LiwOHimTcq8?si=hH66QVTxH7oDvIJg
+- Status: unlisted presentation recording for the final project submission.
+
 What to do first
 1. Read this README once to understand the project flow.
 2. Run `python run_demo.py` to confirm the workspace is set up.

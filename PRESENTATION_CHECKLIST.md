@@ -22,6 +22,7 @@ Submission tips
 - Put the public GitHub link in the slide deck and README.
 - Add exact run commands to the README.
 - Verify that uploaded video is accessible (unlisted link) before deadline.
+- Presentation video link: https://youtu.be/LiwOHimTcq8?si=hH66QVTxH7oDvIJg
 
 Deadlines
 - Bonus deadline: groups that confirmed May 6 — submit by end of day May 6
