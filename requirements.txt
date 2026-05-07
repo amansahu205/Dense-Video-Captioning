@@ -1,0 +1,13 @@
+torch
+transformers==4.40.0
+sentencepiece
+openai-whisper
+h5py
+evaluate
+nltk
+huggingface_hub
+tqdm
+opencv-python
+Pillow
+numpy
+pycocoevalcap
